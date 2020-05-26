@@ -1,4 +1,4 @@
-#define SIZE 32
+#define SIZE 64
 
 typedef struct stack {
 	int i;
